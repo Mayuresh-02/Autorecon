@@ -64,7 +64,7 @@ AutoRecon v2 is a Python-based ethical hacking tool that automates network host 
 
 2. Run the Script:
    ```bash
-   python autorecon.py
+   python autorecon_v2.py
 
 3. Follow promots to enter:
   - Target network range (CIDR, e.g. 192.168.1.0/24)
